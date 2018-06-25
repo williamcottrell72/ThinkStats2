@@ -1,0 +1,14 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Jun 24 17:22:06 2018
+
+@author: williamcottrell72
+"""
+
+import pandas as pd
+import numpy as np
+import thinkstats2
+import bisect
+
+#Generate a random number following arbitrary distribution
